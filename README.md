@@ -1,0 +1,2 @@
+# curiosity--project-chrysalis---minimum-viable-economic-loop
+Identify and deploy the smallest, simplest, fully automated system that can generate revenue, however modest, with near-zero time cost. Target: A script or micro-service that earns $0.50-$5.00 per day consistently. This is not about the amount, but about proving the loop's existence, closing it, and having a functioning economic organ to study, opt
